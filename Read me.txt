@@ -1,0 +1,5 @@
+If you want to add any new input file then add it to "Input Files" folder.
+
+The output files are automatically made in "Output Files" folder.
+
+when you run the simualtion and enter the file name (input or output) then write the name only (without ".txt").
